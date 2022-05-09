@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Rocket-Elevators-Mobile-React-Native",
+    "slug": "Rocket-Elevators-Mobile-React-Native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
