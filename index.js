@@ -1,4 +1,6 @@
 import { registerRootComponent } from 'expo';
+// imported
+import 'expo-asset';
 
 import App from './App';
 
